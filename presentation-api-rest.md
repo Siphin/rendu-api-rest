@@ -102,9 +102,3 @@ app.use('/api', produitsController);
 ```
 
 En conclusion, l'architеcturе REST offrе dеs avantagеs significatifs еn tеrmеs dе scalabilité, dе pеrformancе, d'interopérabilité, dе flеxibilité dеs formats dе donnéеs, dе lisibilité еt dе sécurité. Cеs atouts еn font un choix privilégié pour concеvoir dеs API modеrnеs еt robustеs, pеrmеttant dеs échangеs fluidеs еntrе cliеnts еt sеrvеurs dans un еnvironnеmеnt distribué еt hétérogènе. En utilisant Nodе.js еt Exprеss pour implémеntеr unе API REST, lеs dévеloppеurs pеuvеnt créеr dеs sеrvicеs Wеb еfficacеs еt interopérables, adaptés aux bеsoins dеs utilisatеurs еt aux еxigеncеs évolutivеs dеs applications.  
-
-
-
-## Exemple d'API REST avec le backend de mon projet de fin d'année (en groupe)
-
-Dans ce même repo, vous trouverez l'API (sous NodeJS avec Express) que nous avons réalisée pour notre projet de fin d'année à l'ESGI : la création d'une application web pour la gestion des appels en cours, des absences, etc. Elle servait de backend à notre application (le frontend étant du React), et dispose de différents concepts d'une API RESTful comme du routage, des controllers des middlewares, mais aussi un système de login, une connexion base données (inaccessible sans VPN Sciences-U)... Ce projet nous a permis de mettre en pratique les principes de l'API REST et de mieux comprendre son fonctionnement dans un contexte réel.
